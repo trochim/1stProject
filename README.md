@@ -1,3 +1,3 @@
-# 1stProject
-Training to use GitHub 1st Time
-Innitial Read me
+This software is used to test go.strava
+
+by the time it will be developed as my gain knowladge of GitHub
